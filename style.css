@@ -16,32 +16,36 @@
  border-radius: 25px;
 }
 h1{
- text-align: left;
  padding: 0px;
+ color: aliceblue;
 }
 h2{
- text-align: left;
- padding: 0px;
+ color: aliceblue;
+}
+body{
+ 
 }
 #navigation{
  height: 400px;
  width: 200px;
- bottom: 100px;
  background-color: rgb(34, 167, 219);
- display: inline-block;
  border-radius: 25px;
+ display: inline-block;
 }
 #main_content{
  height: 400px;
- width: 660px;
+ width: 670px;
  background-color: rgb(16, 23, 34);
+ border-radius: 25px;
  display: inline-block;
- border-radius: 25px
+ position: relative;
+ bottom: 375px;
 }
 #advertisement{
  height: 50px;
- width: 910px;
+ width: 920px;
  background-color: silver;
- display: inline-block;
  border-radius: 25px;
+ position: relative;
+ bottom: 375px;
 }
